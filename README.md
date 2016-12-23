@@ -9,4 +9,11 @@ name|age
 tim | 2
 credy | 3
 
+```
+main()
+{
+    int x,y;
+}
+```
+
 
